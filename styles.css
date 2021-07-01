@@ -1,11 +1,10 @@
+#cardOverlay {
+	position: relative;
+	bottom:110;
+}
 
-footer{
-	background: #061a39 !important;
-}
-footer svg {
-	width:70px;
-		height:70px;
-}
+
+
 .bg-img{
   background-image: url('https://i.vgy.me/MKG5So.jpg');
 	background-repeat: no-repeat;
@@ -27,4 +26,12 @@ footer svg {
 	border-left:4px solid #f59e0b;
 	padding-left:1rem;
 	font-weight:700;
+}
+
+footer{
+	background: #061a39 !important;
+}
+footer svg {
+	width:70px;
+		height:70px;
 }
